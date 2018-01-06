@@ -87,7 +87,7 @@ body
 	src: url(../fonts/HelveticaNeue-UltraLight.ttf);
 }
 
-@media (width: 480px;)
+@media (max-width: 600px;)
 {
 	.App .TextField
 	{
