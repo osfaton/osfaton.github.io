@@ -1,5 +1,5 @@
-document.body.onload = function() {
+function LoadClock() {
 	document.getElementById("Clock").innerHTML = new Date().getHours() + ":" + new Date().getMinutes() + ":" + new Date().getSeconds();
 }
 
-setTimeout(document.body.onload(), 1000);
+setTimeout(LoadClock(), 1000);
