@@ -6,16 +6,11 @@
 
 .App
 {
-	background: Black;
+	background: rgba(0, 0, 0, 0.9);
 	border: 1px solid Black;
 	box-shadow: 0 0 16px Black;
 	padding: 0.5em;
 	text-shadow: 0 0 8px White;
-}
-
-.App:before
-{
-	opacity: 0.9;
 }
 
 .App .Layout
