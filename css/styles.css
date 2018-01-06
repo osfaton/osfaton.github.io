@@ -48,12 +48,12 @@ body
 	padding: 0.5em;
 }
 
-.App .StatusBar
+.StatusBar
 {
 	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #EEEEEE);
 }
 
-.App .StatusBar .MenuItem
+.StatusBar .MenuItem
 {
 	text-decoration: none;
 }
