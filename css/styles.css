@@ -44,6 +44,7 @@ body
 {
 	background: White;
 	margin-top: 0.5em;
+	overflow: hidden;
 	padding: 0.5em;
 }
 
@@ -55,7 +56,6 @@ body
 	color: #949494;
 	font-family: Consolas, monospace;
 	height: 320px;
-	overflow: hidden;
 	padding: 0.5em;
 	resize: none;
 	width: 99%;
