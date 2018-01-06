@@ -3,6 +3,8 @@
 	font-family: HelveticaNeue;
 	margin: 0;
 	padding: 0;
+	user-select: none;
+	-webkit-tap-highlitght-color: transparent;
 }
 
 body
