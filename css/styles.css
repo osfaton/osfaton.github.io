@@ -56,7 +56,7 @@ body
 	font-family: Consolas, monospace;
 	padding: 0.5em;
 	resize: none;
-	width: 95%;
+	width: 97%;
 }
 
 .App .TextField::selection
