@@ -55,6 +55,7 @@ body
 	color: #949494;
 	font-family: Consolas, monospace;
 	height: 320px;
+	overflow: hidden;
 	padding: 0.5em;
 	resize: none;
 	width: 99%;
