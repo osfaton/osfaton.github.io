@@ -6,7 +6,7 @@
 
 body
 {
-	background: linear-gradient(to right, #00B8D4, #263238);
+	background: linear-gradient(145deg, #00B8D4, #263238);
 	background-position: center;
 	object-fit: cover;
 }
