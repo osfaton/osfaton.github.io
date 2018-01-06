@@ -48,19 +48,6 @@ body
 	padding: 0.5em;
 }
 
-.StatusBar
-{
-	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #EEEEEE);
-}
-
-.StatusBar .MenuItem
-{
-	color: #424242;
-	font-weight: Bold;
-	margin: 0.5em;
-	text-decoration: none;
-}
-
 .App .TextField
 {
 	background: #EEEEEE;
@@ -94,6 +81,24 @@ body
 .App .TextField::-webkit-scrollbar-track
 {
 	background: #FFFFFF;
+}
+
+.StatusBar
+{
+	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #EEEEEE);
+}
+
+.StatusBar .MaterialIcons
+{
+	font-family: "Material Icons";
+}
+
+.StatusBar .MenuItem
+{
+	color: #424242;
+	font-weight: Bold;
+	margin: 0.5em;
+	text-decoration: none;
 }
 
 @font-face
