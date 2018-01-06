@@ -7,5 +7,5 @@ function LoadClock() {
 	if (minutes < 10) minutes = "0" + minutes;
 	if (seconds < 10) seconds = "0" + seconds;
 	document.getElementById("Clock").innerHTML = hours + ":" + minutes + ":" + seconds;
-	setTimeout("digitalWatch()", 1000);
+	setTimeout("LoadClock()", 1000);
 }
