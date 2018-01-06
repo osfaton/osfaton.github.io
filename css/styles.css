@@ -52,13 +52,14 @@ body
 {
 	background: #EEEEEE;
 	border: 1px solid Gray;
+	border-box: box-sizing;
 	border-radius: 4px;
 	color: #949494;
 	font-family: Consolas, monospace;
 	height: 320px;
 	padding: 0.5em;
 	resize: none;
-	width: auto;
+	width: 100%;
 }
 
 .App .TextField::selection
