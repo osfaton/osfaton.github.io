@@ -47,6 +47,17 @@ body
 	padding: 0.5em;
 }
 
+.App .TextField
+{
+	font-family: Consolas, monospace;
+}
+
+.App .TextField::selection
+{
+	color: White;
+	background: Red;
+}
+
 @font-face
 {
 	font-family: HelveticaNeue;
