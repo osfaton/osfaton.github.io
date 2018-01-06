@@ -55,6 +55,8 @@ body
 
 .StatusBar .MenuItem
 {
+	color: #424242;
+	margin: 0.5em;
 	text-decoration: none;
 }
 
