@@ -25,6 +25,8 @@ body
 .App .Button
 {
 	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #AAAAAA);
+	border: 1px solid Gray;
+	border-radius: 8px;
 }
 
 .App .Layout
