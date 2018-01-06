@@ -34,7 +34,7 @@ body
 	transition: all 025s ease-in-out;
 }
 
-.App .Button:focus
+.App .Button:active
 {
 	background: #949494;
 	color: white;
