@@ -58,7 +58,7 @@ body
 	height: 320px;
 	padding: 0.5em;
 	resize: none;
-	width: 99%;
+	width: auto;
 }
 
 .App .TextField::selection
@@ -86,12 +86,4 @@ body
 {
 	font-family: HelveticaNeue;
 	src: url(../fonts/HelveticaNeue-UltraLight.ttf);
-}
-
-@media (max-width: 512px;)
-{
-	.App .TextField
-	{
-		width: 90%;
-	}
 }
