@@ -53,7 +53,7 @@ body
 	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #EEEEEE);
 }
 
-.App .StatusBar a
+.App .StatusBar .MenuItem
 {
 	margin: 0.5em;
 	text-decoration: none;
