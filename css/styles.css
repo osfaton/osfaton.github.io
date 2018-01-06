@@ -36,7 +36,7 @@ body
 
 .App .Button:active
 {
-	background: -webkit-linear-gradient(bottom, #AAAAAA, #949494, #EEEEEE);
+	background: -webkit-linear-gradient(top, #AAAAAA, #949494, #EEEEEE);
 	color: white;
 }
 
