@@ -27,6 +27,7 @@ body
 	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #AAAAAA);
 	border: 1px solid Gray;
 	border-radius: 8px;
+	padding: 0.5em 2em;
 }
 
 .App .Layout
