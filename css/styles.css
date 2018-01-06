@@ -7,7 +7,7 @@
 
 body
 {
-	background: linear-gradient(145deg, #00B8D4, #263238);
+	background: -webkit-linear-gradient(145deg, #00B8D4, #263238);
 	background-position: center;
 	object-fit: cover;
 }
