@@ -1,5 +1,6 @@
 *
 {
+	font-family: HelveticaNeue;
 	margin: 0;
 	padding: 0;
 }
@@ -26,4 +27,11 @@ body
 	background: White;
 	margin-top: 0.5em;
 	padding: 0.5em;
+}
+
+
+@font-face
+{
+	font-family: HelveticaNeue;
+	src: url(../fonts/HelveticaNeue-Light.ttf);
 }
