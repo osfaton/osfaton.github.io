@@ -2,6 +2,7 @@
 {
 	font-family: HelveticaNeue;
 	margin: 0;
+	outline: none;
 	padding: 0;
 	user-select: none;
 	-webkit-tap-highlitght-color: transparent;
@@ -30,6 +31,13 @@ body
 	border: 1px solid Gray;
 	border-radius: 8px;
 	padding: 0.5em 2em;
+	transition: all 025s ease-in-out;
+}
+
+.App .Button:focus
+{
+	background: #949494;
+	color: white;
 }
 
 .App .Layout
