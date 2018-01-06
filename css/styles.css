@@ -52,7 +52,7 @@ body
 {
 	background: #EEEEEE;
 	border: 1px solid Gray;
-	border-box: box-sizing;
+	box-sizing: border-box;
 	border-radius: 4px;
 	color: #949494;
 	font-family: Consolas, monospace;
