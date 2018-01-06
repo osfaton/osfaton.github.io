@@ -86,3 +86,11 @@ body
 	font-family: HelveticaNeue;
 	src: url(../fonts/HelveticaNeue-UltraLight.ttf);
 }
+
+@media (width: 480px;)
+{
+	.App .TextField
+	{
+		width: 95%;
+	}
+}
