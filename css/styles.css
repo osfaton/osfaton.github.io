@@ -90,11 +90,11 @@ body
 
 .MaterialIcons
 {
-	font-family: 'Material Icons';
-	font-feature-settings: 'liga';
+	font-family: "Material Icons";
+	font-feature-settings: "liga";
 	font-weight: normal;
 	font-style: normal;
-	font-size: 24px;
+	font-size: 36px;
 	direction: ltr;
 	display: inline-block;
 	letter-spacing: normal;
