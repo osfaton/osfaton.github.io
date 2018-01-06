@@ -48,6 +48,11 @@ body
 	padding: 0.5em;
 }
 
+.StatusBar
+{
+	background: -webkit-linear-gradient(top, #EEEEEE, #949494, #EEEEEE);
+}
+
 .App .TextField
 {
 	background: #EEEEEE;
