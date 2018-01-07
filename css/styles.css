@@ -101,6 +101,11 @@ body
 	text-decoration: none;
 }
 
+#Clock
+{
+	float: right;
+}
+
 @font-face
 {
 	font-family: HelveticaNeue;
